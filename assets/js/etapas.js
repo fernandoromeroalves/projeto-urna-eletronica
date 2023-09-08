@@ -4,7 +4,7 @@ let etapas = [
         numeros: 5,
         candidatos:[
             {
-                numero:38111,
+                numero:'38111',
                 nome: 'Joseph Joestar "JOJO"',
                 partido: 'JoJo Bizarre Adventure',
                 fotos:[
@@ -12,7 +12,7 @@ let etapas = [
                 ]
             },
             {
-                numero:77222,
+                numero:'77222',
                 nome:'Saitama',
                 partido: 'partido dos super herois',
                 fotos:[
@@ -26,7 +26,7 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-            nummero: 99,
+            nummero: '99',
             nome: 'Goku',
             partido:'dragon ball',
             vice:'Monkey D. Luffy',
@@ -36,7 +36,7 @@ let etapas = [
             ]
         },
         {
-            numero:84,
+            numero:'84',
             nome:' Naruto Uzumaki',
             partido: 'vila da folha',
             vice: 'Ichigo Kurosaki',
