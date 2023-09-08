@@ -26,13 +26,13 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-            nummero: '99',
+            numero: '99',
             nome: 'Goku',
             partido:'dragon ball',
             vice:'Monkey D. Luffy',
             fotos:[
                 {url:'assets/image/99.jpg', legenda:'Prefeito'},
-                {url:'assets/image/99_2', legenda: 'Vice-Prefeito', small: true}
+                {url:'assets/image/99_2.jpg', legenda: 'Vice-Prefeito', small: true}
             ]
         },
         {
@@ -42,7 +42,7 @@ let etapas = [
             vice: 'Ichigo Kurosaki',
             fotos:[
                 {url:'assets/image/84.jpg', legenda: 'Prefeito'},
-                {url:'assets/image/84_2.jpg', legenda:'Vice-Prefeito'}
+                {url:'assets/image/84_2.jpg', legenda:'Vice-Prefeito', small: true}
             ]
         }
     ]
